@@ -1,2 +1,2 @@
 # image
-cloud image
+cloud images
